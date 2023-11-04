@@ -2,7 +2,7 @@
 	"name": "reactfolio",
 	"version": "1.1.0",
 	"description": "Personal portfolio template built using Reactjs",
-	"homepage": "https://github.com/sauravkumar-9/my-portfolio",
+	"homePage": "http://sauravkumar-9.github.io/my-portfolio",
 	"author": {
 		"name": "Tharindu N. Madhusanka",
 		"email": "mail@tharindu.dev",
